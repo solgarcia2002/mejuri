@@ -1,5 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Create .ENV file
+
+REACT_APP_CHALLENGE_ALL_PRODUCTS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/shop_all.json
+REACT_APP_CHALLENGE_BRACELETS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/bracelets.json
+REACT_APP_CHALLENGE_NECKLACES_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/necklaces.json
+REACT_APP_CHALLENGE_EARRINGS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/earrings.json
+REACT_APP_CHALLENGE_ENGAGEMENT_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/engagement.json
+REACT_APP_CHALLENGE_PENDANTS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/pendants.json
+REACT_APP_CHALLENGE_RINGS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/rings.json
+REACT_APP_CHALLENGE_SETS_URL=http://mejuri-fe-challenge.s3-website-us-east-1.amazonaws.com/stacking-sets.json
+
+
 ## Available Scripts
 
 In the project directory, you can run:
